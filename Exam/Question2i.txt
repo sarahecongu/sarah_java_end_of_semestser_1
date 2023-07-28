@@ -1,0 +1,5 @@
+i)Private access Modifier is an accessor in object oriented programming where variables declared within that class can only be accessed within that very class for example 
+    Private String name;
+    Protected access Modifier is an accessor in object oriented programming where the variables declared are encrypted for example protected Sting job_title
+    Public access Modifier is an accessor that can be accessed globally within that whole class for example public class Animal
+    

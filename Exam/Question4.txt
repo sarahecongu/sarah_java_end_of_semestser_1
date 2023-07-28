@@ -1,0 +1,8 @@
+4a)A class is a group of related objects while an Object is an instance of a class
+for example 
+public class Animal{
+    Animal animal = new Animal("dog")
+    Animal is the class
+    animal is the object
+}
+

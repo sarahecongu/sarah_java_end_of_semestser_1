@@ -1,0 +1,6 @@
+ia)Inheritance refers to the process which child elements adopt or inherit some
+of there behavior from the super class
+ib)Encapsulation refers to concept in Object oriented programming which deals with real life especially used in hiding data 
+ic)Polymorphism refers to a concept in object oriented programming whhere the an object can have different forms 
+id)Object is an instance of a class
+ie)Constructor is used for initializing the class
